@@ -6,7 +6,7 @@ This a polybar with colored modules i made for leftwm.
 
 Came out smooth,I guess. The update button opens urxvt terminal with the update command alreay inside.
 
-Many connfigs are from the ArcoLinux Leftwm iso. Most grateful to Eric Dubois, for his unvaluable inspirations.
+Many connfigs are from the ArcoLinux Leftwm iso. Most grateful to Eric Dubois, for his unvaluable inspirations. And, of course, the entire, ArcoLinux and Linux community.
 
 ...
 .....
